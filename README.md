@@ -2,6 +2,7 @@
 
 This is my First Android App. I am not planning on releasing this on the Android Market because it may break NBCsports Copyrights Policies.
 
+Link to Test App: 
 
 ![alt tag](http://i.imgur.com/hnJN9vE.png)
 ![alt tag](http://i.imgur.com/4aPaQRL.png)
