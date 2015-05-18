@@ -2,7 +2,7 @@
 
 Rotoworld.com provides top headlines and news on players. Rotoworld gives fantasy owners a tool to stay updated 24/7 with sports, including NBA, NFL, MLB, NHL, PGA, NASCAR.
 
-Link to Test App: http://apkshared.net/cta
+Download apk: http://apkshared.net/cta
 
 or 
 
