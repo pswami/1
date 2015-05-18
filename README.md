@@ -3,7 +3,9 @@
 This is my First Android App. I am not planning on releasing this on the Android Market because it may break NBCsports Copyrights Policies. Official Website: rotoworld.com
 
 Link to Test App: http://apkshared.net/7fd
+
 or 
+
 Download from AppToide: http://swamiapps.store.aptoide.com/app/market/app.roto.pswami.rotoworld/1/9346064/The+Unofficial+Rotoworld
 
 ![alt tag](http://cdn4.aptoide.com/imgs/c/1/6/c165897e42b3bad95d8378616e3acb41_screen_384x640.png)
