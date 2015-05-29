@@ -1,6 +1,6 @@
 # The Unoffical Rotoworld
 
-Rotoworld.com provides top headlines and news on players. Rotoworld gives fantasy owners a tool to stay updated 24/7 with sports, including NBA, NFL, MLB, NHL, PGA, NASCAR.
+Rotoworld.com provides top headlines and news on players. Rotoworld gives fantasy owners a tool to stay updated 24/7 with sports, including NBA, NFL, MLB, NHL, PGA, NASCAR
 
 Download apk: http://apkshared.net/cta
 
